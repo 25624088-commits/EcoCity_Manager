@@ -25,5 +25,5 @@ Diseñar una infraestructura digital capaz de gestionar recursos críticos (ener
    `python identidad.py`
 
 ##  Autor
-* **Nombre:** JMHR
+* **Nombre:** Macx Berdeja Guerrero
 * **Rol:** Compañero de equipo - Laboratorio AIoT CyTI
