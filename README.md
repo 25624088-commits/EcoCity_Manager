@@ -12,6 +12,7 @@
 
 ## 👨‍🔬 Información del Autor
 * **Autor:** Macx Berdeja Guerrero
+* * **Profesor:** Juan Miguel Hernandez Ramirez
 * **Rol:** Estudiante de Ciencia de Datos / Laboratorio AIoT CyTI
 * **Institución:** Universidad Autónoma de Guerrero
 
